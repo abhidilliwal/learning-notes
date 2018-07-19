@@ -1,2 +1,3 @@
-# learning-notes
-Created with CodeSandbox
+# My Notes
+
+Crash course notes.
